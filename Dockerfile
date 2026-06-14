@@ -17,7 +17,7 @@ RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
 WORKDIR /app
 
 # Clone your repo
-RUN git clone https://github.com/IamGunpoint/nodejs-ubuntu-vm.git .
+RUN git clone https://github.com/gostdtgamer-lab/nodejs-ubuntu-vm .
 
 # Install dependencies
 RUN npm install || true
