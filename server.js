@@ -1,7 +1,7 @@
 /**
  * 🚀 PROOT UBUNTU 22.04 LIVE CONTAINER ENGINE (NEON CLASSGLASS DESIGN V2)
- * 👤 User: ImGunpoint
- * 🛠️ Made by: Gemini AI & ImGunpoint
+ * 👤 User: it_me_votex
+ * 🛠️ Made by: it_me_votex
  */
 
 const http = require('http');
